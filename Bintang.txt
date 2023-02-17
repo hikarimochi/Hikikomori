@@ -1,4 +1,5 @@
 Nama = bintang putra adryan
-panggilan = bintang / putra
+panggilan = bintang
+umur = 15 th
 kelas = X RPL 2
 bidang = APP DEV
