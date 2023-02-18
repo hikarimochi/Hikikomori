@@ -3,3 +3,4 @@ panggilan = bintang
 umur = 15 th
 kelas = X RPL 2
 bidang = APP DEV
+hobi = memasak, menonton anime, dan memancing.
